@@ -1,1 +1,1 @@
-# github-action-build-deploy-workflow
+# ビルドして作成した静的ファイルをGithub PagesにデプロイするWorkflowを作る
